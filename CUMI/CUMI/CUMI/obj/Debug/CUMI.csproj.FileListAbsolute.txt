@@ -1,0 +1,11 @@
+C:\Users\Gabriel\Desktop\CS\Projetos\Outros\CUMI\CUMI\CUMI\bin\Debug\CUMI.exe.config
+C:\Users\Gabriel\Desktop\CS\Projetos\Outros\CUMI\CUMI\CUMI\bin\Debug\CUMI.exe
+C:\Users\Gabriel\Desktop\CS\Projetos\Outros\CUMI\CUMI\CUMI\bin\Debug\CUMI.pdb
+C:\Users\Gabriel\Desktop\CS\Projetos\Outros\CUMI\CUMI\CUMI\obj\Debug\CUMI.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\CS\Projetos\Outros\CUMI\CUMI\CUMI\obj\Debug\CUMI.Form1.resources
+C:\Users\Gabriel\Desktop\CS\Projetos\Outros\CUMI\CUMI\CUMI\obj\Debug\CUMI.Properties.Resources.resources
+C:\Users\Gabriel\Desktop\CS\Projetos\Outros\CUMI\CUMI\CUMI\obj\Debug\CUMI.csproj.GenerateResource.cache
+C:\Users\Gabriel\Desktop\CS\Projetos\Outros\CUMI\CUMI\CUMI\obj\Debug\CUMI.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\CS\Projetos\Outros\CUMI\CUMI\CUMI\obj\Debug\CUMI.exe
+C:\Users\Gabriel\Desktop\CS\Projetos\Outros\CUMI\CUMI\CUMI\obj\Debug\CUMI.pdb
+C:\Users\Gabriel\Desktop\CS\Projetos\Outros\CUMI\CUMI\CUMI\obj\Debug\CUMI.Ajuda.resources

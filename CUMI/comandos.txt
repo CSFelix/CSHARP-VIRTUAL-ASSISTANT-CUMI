@@ -1,0 +1,30 @@
+/* Searches */ 
+pesquisa google
+pesquisa imagem
+pesquisa youtube
+pesquisa yahoo
+
+/* WebSites */
+google
+imagem
+yahoo
+youtube
+facebook
+linkedin
+geekie (geekie games)
+khan
+sololearn
+jbc
+outlook
+
+/* Softwares */
+calc
+word
+excell
+cmd
+gerenciador
+docs
+
+
+/* Abrir Diretório CUMI */
+arquivo documento
