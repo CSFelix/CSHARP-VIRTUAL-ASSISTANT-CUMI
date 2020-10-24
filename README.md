@@ -99,7 +99,7 @@ For example, if I would like to open the 'my_video.mp4' storaged into the Videos
 ----
 ### `✉️ Contact ✉️`
 
-> **Email:** `gabrielfelix08@outlook.com`
+> **Email:** `csfelix08@gmail.com`
 
 > **Linkedin:** `---`
 
