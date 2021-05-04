@@ -97,13 +97,13 @@ For example, if I would like to open the 'my_video.mp4' storaged into the Videos
 * Into the first CUMI folder there are the **AssistenteVirtual.cs** and **comandos.txt** files. The first is the CUMI class, where the all 'think proccess' and commands are!
 
 ----
-### `✉️ Contact ✉️`
+### `📫 Reach Me 📫`
 
-> **Email:** `csfelix08@gmail.com`
+> **Email:** **[csfelix08@gmail.com](mailto:csfelix08@gmail.com?)**
 
-> **Linkedin:** `linkedin.com/in/csfelix/`
+> **Linkedin:** **[linkedin.com/in/csfelix/](https://www.linkedin.com/in/csfelix/)**
 
-> **Instagram:** `instagram.com/c0deplus/`
+> **Instagram:** **[instagram.com/c0deplus/](https://www.instagram.com/c0deplus/)**
 
 ----
 
